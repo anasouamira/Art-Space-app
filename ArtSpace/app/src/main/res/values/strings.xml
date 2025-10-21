@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="cat_title">cat</string>
+    <string name="graffiti_title">graffiti</string>
+    <string name="hero_title">hero</string>
+    <string name="teeth_title">teeth</string>
+
+
+    <string name="cat_description">Cats are fascinating animals known for their independence, agility, and playful nature. They have been human companions for thousands of years, valued not only for their ability to catch pests but also for their affectionate personalities. With sharp senses and graceful movements</string>
+    <string name="graffiti_description">Graffiti is a vibrant and expressive form of street art that transforms public spaces into open-air galleries. It often involves colorful spray paint designs, bold lettering, and creative imagery on walls, trains, and buildings. While once seen mainly as vandalism</string>
+    <string name="hero_description">A hero is someone who shows courage, selflessness, and determination in the face of challenges. Heroes can be found in every part of life — from firefighters and doctors saving lives, to everyday people helping others in times of need. In stories and movies</string>
+    <string name="teeth_description">Teeth are hard, calcified structures in the mouth that play a crucial role in eating, speaking, and overall health. They help break down food into smaller pieces for digestion and also contribute to clear speech and a confident smile. Humans typically have two sets of teeth in their lifetime</string>
+
+
+</resources>
